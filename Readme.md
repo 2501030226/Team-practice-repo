@@ -1,5 +1,5 @@
 # README FILE
-### This isthe readme fle for hour practie
+### This isthe readme file for hour practice
 Mke changes hereeeeeeeee
 hellooo
 
@@ -7,3 +7,4 @@ hellooo
 
 
 change 1 (mujhe ise jada kuch samajh nahi aya) 
+vasu ko spelling tak ni aati btw aru this side helllo
